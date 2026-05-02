@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<div align="center"> 
-  <p>Visitor count</p>
-  <img src="https://profile-counter.glitch.me/{jskelly2021}/count.svg" alt="Visitor's Count" />
-</div>
+![Profile Views](https://komarev.com/ghpvc/?username=jskelly2021)
+![Stats](https://github-readme-stats.vercel.app/api?username=jskelly2021&show_icons=true&theme=tokyonight)
+![Streak](https://streak-stats.demolab.com/?user=jskelly2021&theme=tokyonight)
